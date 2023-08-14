@@ -1,0 +1,13 @@
+Concepts
+ - Open world
+    - Fast travel
+    - Random Encounters
+    - NPCs
+ - Turn-based Combat
+    - Item-based upgrades
+ - Quest System
+    - Side quests for neat items
+
+World
+ - Start with a few towns in the first few versions but expand over time with updates
+ - Places are added to the fast travel list when they are first mentioned or found via random encounter
